@@ -1,0 +1,12 @@
+{
+  "name": "node-lights",
+  "description": "App for MongoDB oplog watching and graphing",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+    "smoothie": "1.23.x",
+    "socket.io": "1.0.2",
+    "mongo-oplog": "0.1.4"
+  }
+}
