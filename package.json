@@ -8,5 +8,6 @@
     "smoothie": "1.23.x",
     "socket.io": "1.0.2",
     "mongo-oplog": "0.1.4"
+    "serialport": "1.4.0"
   }
 }
